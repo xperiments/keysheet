@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "keysheet:process"
   },
-  "repository": "https://github.com/atom/keysheet",
+  "repository": "https://github.com/xperiments/keysheet",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
