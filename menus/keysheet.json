@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle keysheet",
-        "command": "keysheet:toggle"
+        "label": "Process keysheet",
+        "command": "keysheet:process"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "keysheet",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "keysheet:toggle"
+              "label": "Process",
+              "command": "keysheet:process"
             }
           ]
         }
