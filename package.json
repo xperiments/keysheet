@@ -1,7 +1,7 @@
 {
   "name": "keysheet",
   "main": "./lib/keysheet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
