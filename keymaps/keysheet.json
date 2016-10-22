@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "keysheet:toggle"
+    "ctrl-alt-cmd-s": "keysheet:process"
   }
 }
